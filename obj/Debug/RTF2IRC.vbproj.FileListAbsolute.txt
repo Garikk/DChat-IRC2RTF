@@ -1,0 +1,7 @@
+D:\SKYDRIVE\mydocs\programming\OLD_PROJECTS\Binares\RTF2IRC.dll
+D:\SKYDRIVE\mydocs\programming\OLD_PROJECTS\Binares\RTF2IRC.pdb
+D:\SKYDRIVE\mydocs\programming\OLD_PROJECTS\Binares\RTF2IRC.xml
+D:\SKYDRIVE\mydocs\programming\OLD_PROJECTS\RTF2IRC\obj\Debug\RTF2IRC.vbprojResolveAssemblyReference.cache
+D:\SKYDRIVE\mydocs\programming\OLD_PROJECTS\RTF2IRC\obj\Debug\RTF2IRC.dll
+D:\SKYDRIVE\mydocs\programming\OLD_PROJECTS\RTF2IRC\obj\Debug\RTF2IRC.xml
+D:\SKYDRIVE\mydocs\programming\OLD_PROJECTS\RTF2IRC\obj\Debug\RTF2IRC.pdb
